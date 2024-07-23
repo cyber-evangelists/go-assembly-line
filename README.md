@@ -1,7 +1,7 @@
 # Car Assembly Line Scheduling 
 
 ## Overview
-This project demonstrates a solution to the car assembly line scheduling problem using dynamic programming. The goal is to determine the minimum time required to assemble a car given two assembly lines, each with a series of stations, and additional constraints such as extra time required for switching between lines and the time taken to enter and exit each line.
+This project demonstrates a solution to the car assembly line scheduling problem using dynamic programming. The goal is to determine the minimum time required to assemble a car given two assembly lines, each with a series of stations, and additional constraints such as extra time required for switching between lines and the time taken to enter and exit each line
 
 ### Files and Directories
 
